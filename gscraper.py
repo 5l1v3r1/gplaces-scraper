@@ -8,7 +8,7 @@ try:
 	apikey = keyFile.readline().rstrip()
 	google_places = GooglePlaces(apikey)
 except FileNotFoundError:
-	print("No API key found in api.txt or file does not exist!")
+	print("key.txt not found!")
 	sys.exit()
 
 
