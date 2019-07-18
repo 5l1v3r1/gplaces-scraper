@@ -5,7 +5,7 @@
 
 ## Installation
 
-```git clone https://github.com/FrintoSec/gplaces-scraper.git```
+```git clone https://github.com/Frint0/gplaces-scraper.git```
 
 ## Configuration
 
